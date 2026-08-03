@@ -77,7 +77,7 @@ Cash Flow from Operating, Investing, and Financing activities (CFO, CFI, CFF)
 - Consistent colour coding to distinguish positive and negative trends
 - Minimal decorative elements, prioritising clarity over visual noise
 
-The full methodology, including data preparation steps, assumptions, and formula definitions, is documented in the accompanying [Kalyan Jewellers Financial Performance Dashboard Approach](./Kalyan%20Jewellers%20Financial%20Performance%20Dashboard%20Approach.pdf) 
+The full methodology, including data preparation steps, assumptions, and formula definitions, is documented in the accompanying file [Kalyan Jewellers Financial Performance Dashboard Approach](./Kalyan%20Jewellers%20Financial%20Performance%20Dashboard%20Approach.pdf).
 
 ---
 
